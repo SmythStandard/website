@@ -1,0 +1,10 @@
+
+@media screen and (max-width: 500px) {
+
+  .wrapper_header{
+    background-color: red;
+  }
+
+  .header_bottom_section{
+    display: none;
+  }

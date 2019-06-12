@@ -1,0 +1,15 @@
+@media screen and (max-width:980px) {
+  html{
+    font-size: 80%;
+  }
+    .header_bottom_section{
+      display: none;
+    }
+
+    .site_name{
+      font-size: 40px;
+    }
+
+    
+
+}
